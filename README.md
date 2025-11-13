@@ -17,7 +17,7 @@ This project focuses on clean UI design, fast performance, and accessibility acr
 
 ## 🌐 Demo
 🔗 **Live Preview:** [View Demo](https://clinic-app-theta.vercel.app/)  
-📦 **Repository:** [GitHub Repo](https://github.com/ahsanelm39-star/React-js-Clinic)
+📦 **Repository:** [GitHub Repo](https://github.com/ahsanelm39-star/MediTro)
 
 ---
 
