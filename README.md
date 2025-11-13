@@ -1,12 +1,59 @@
-# React + Vite
+# 🚀 MediTro
+![Cover](https://i.postimg.cc/x8yN27WT/dwn-ʿnwan-1700-x-970-byksl-4.png)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**MediTro** is a modern, responsive, and user-friendly medical website built to provide patients with quick access to healthcare information, doctors, and appointment booking.
+This project focuses on clean UI design, fast performance, and accessibility across all devices.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🧩 Table of Contents
+- [Demo](#-demo)
+- [Features](#-features)
+- [Tech-Stack](#-tech-stack)
+- [Screenshots](#-screenshots)
+- [Installation](#-installation)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🌐 Demo
+🔗 **Live Preview:** [View Demo](https://clinic-app-theta.vercel.app/)  
+📦 **Repository:** [GitHub Repo](https://github.com/ahsanelm39-star/React-js-Clinic)
+
+---
+
+## ✨ Features
+- ⚡ Fast and responsive across all devices
+- 🎨 Clean UI built with Tailwind CSS
+- 🔐 Authentication system (Login / Signup)
+- 🧠 Modern state management
+- 🌍 SEO optimized & accessible
+- 🧰 Easy to customize and extend
+
+---
+
+## 🛠️ Tech-Stack
+| Category | Tools |
+|-----------|--------|
+| Frontend | React.js |
+| Styling | Tailwind CSS |
+| icons | font awesome |
+| Deployment | Netlify |
+
+
+---
+
+## 📸 Screenshots
+| Desktop View | Mobile View |
+|---------------|--------------|
+| ![Desktop](https://i.postimg.cc/HsYVM6qQ/0fde2e288bc.png) | ![Mobile](https://i.postimg.cc/LXk8YPvH/p-Orry-Qj-Mayy.png) |
+
+---
+
+## 🧰 Installation
+
+Clone the project and install dependencies:
+
+```bash
+git clone https://github.com/ahsanelm39-star/React-js-Clinic.git
+npm install
+npm run dev
