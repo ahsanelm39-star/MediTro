@@ -37,7 +37,7 @@ This project focuses on clean UI design, fast performance, and accessibility acr
 | Frontend | React.js |
 | Styling | Tailwind CSS |
 | icons | font awesome |
-| Deployment | Netlify |
+| Deployment | Vercel |
 
 
 ---
