@@ -53,7 +53,7 @@ This project focuses on clean UI design, fast performance, and accessibility acr
 Clone the project and install dependencies:
 
 ```bash
-git clone https://github.com/ahsanelm39-star/URBANBUILD.git
+git clone https://github.com/ahsanelm39-star/MediTro.git
 npm install
 npm run dev
 ```
