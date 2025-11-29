@@ -31,15 +31,14 @@ This project focuses on clean UI design, fast performance, and accessibility acr
 
 ---
 
-## 🛠️ Tech-Stack
+## 🛠️ Tech Stack
 | Category | Tools |
-|-----------|--------|
-| Frontend | React.js |
-| Styling | Tailwind CSS |
-| icons | font awesome |
-| Deployment | Vercel |
-
-
+|---------|--------|
+| **Framework** | React |
+| **Language** | JavaScript |
+| **Styling** | Tailwind CSS |
+| **Icons** | Font Awesome |
+| **Deployment** | Vercel |
 ---
 
 ## 📸 Screenshots
@@ -54,6 +53,48 @@ This project focuses on clean UI design, fast performance, and accessibility acr
 Clone the project and install dependencies:
 
 ```bash
-git clone https://github.com/ahsanelm39-star/React-js-Clinic.git
+git clone https://github.com/ahsanelm39-star/URBANBUILD.git
 npm install
 npm run dev
+```
+ Open your browser at:
+```text
+http://localhost:5173
+```
+
+---
+
+
+## Build
+Create a production build:
+```bash
+npm run build
+```
+ Then start the production server:
+```bash
+npm start
+```
+Next.js will output the optimized production version inside:
+
+.dist/
+
+## 🌐 Deploy on Vercel
+
+Push your project to GitHub.
+
+Go to Vercel Dashboard → Add New Project.
+
+Select the GitHub repository.
+
+Vercel will auto-detect Next.js.
+
+Default settings:
+
+|  Setting | Value |
+|-----------|--------|
+| npm run build | Build Command |
+| npm install | Install Command |
+| .dist | Output Directory |
+
+Click Deploy — done!
+
