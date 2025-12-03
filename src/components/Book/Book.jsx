@@ -1,17 +1,6 @@
 import './Book.css'
-// import { useEffect } from 'react'
 
 export default function Book () {
-// useEffect(()=>{
-//     const bSection =  document.querySelector(".book")
-//     window.addEventListener("scroll",()=>{
-//         if(window.scrollY >= bSection.offsetTop - 500){
-//             bSection.classList.add("movement")
-//             }else{
-//             bSection.classList.remove("movement")
-//         }
-//     })
-// },[])
     return (
         <>
             <div className="book flex flex-wrap justify-between items-center">

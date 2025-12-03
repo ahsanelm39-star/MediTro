@@ -3,17 +3,6 @@
     padding-left: 30px;
     padding-right: 20px;
     justify-content: space-between;
-    /* transform: translatey(100px);
-    -webkit-transform: translatey(100px);
-    -moz-transform: translatey(100px);
-    -ms-transform: translatey(100px);
-    -o-transform: translatey(100px);
-    opacity: 0;
-    transition: 0.7s;
-    -webkit-transition: 0.7s;
-    -moz-transition: 0.7s;
-    -ms-transition: 0.7s; 
-    -o-transition: 0.7s; */
 }
 @media (max-width:767px){
     .about-us{

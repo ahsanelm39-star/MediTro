@@ -1,22 +1,6 @@
 import './Services.css'
-// import { useEffect } from 'react'
-
-
 
 export default function Services () {
-// useEffect(()=>{
-//     const sSection =  document.querySelector(".main-services")
-//     window.addEventListener("scroll",()=>{
-//         if(window.scrollY >= sSection.offsetTop - 500){
-//             sSection.classList.add("movement")
-//             }else{
-//             sSection.classList.remove("movement")
-//         }
-//     })
-// },[])
-
-
-
 
     const data = [
         {

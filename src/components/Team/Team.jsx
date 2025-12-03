@@ -1,17 +1,6 @@
 import './Team.css'
-// import { useEffect } from 'react'
 
 export default function Team () {
-//     useEffect(()=>{
-//     const teSection =  document.querySelector(".team")
-//     window.addEventListener("scroll",()=>{
-//         if(window.scrollY >= teSection.offsetTop - 500){
-//             teSection.classList.add("movement")
-//             }else{
-//             teSection.classList.remove("movement")
-//         }
-//     })
-// },[])
     const team = [
         {
             id:1,
