@@ -1,5 +1,5 @@
 # 🚀 MediTro
-![Cover](https://i.postimg.cc/x8yN27WT/dwn-ʿnwan-1700-x-970-byksl-4.png)
+![Cover](https://i.postimg.cc/J0fqyCgd/Med-Tro.png)
 
 **MediTro** is a modern, responsive, and user-friendly medical website built to provide patients with quick access to healthcare information, doctors, and appointment booking.
 This project focuses on clean UI design, fast performance, and accessibility across all devices.
